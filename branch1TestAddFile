@@ -1,1 +1,2 @@
-add a file to test branch usage 
+## add a branch file for test purpose
+print ("This is a new file add to branch")
